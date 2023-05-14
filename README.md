@@ -1,4 +1,4 @@
-# sample
+# vueWebcam
 
 ## Project setup
 ```
